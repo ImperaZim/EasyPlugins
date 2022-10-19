@@ -2,6 +2,6 @@
 
 | Plugin | Version | API | 
 | --- | --- | --- |
-| EasyWorld | 2.0.0-alpha | 4.0.0 |
-| EasyWarps | 1.0.0-beta | 4.0.0 |
+| EasyWorld | 2.0.0 alpha | 4.0.0 |
+| EasyWarps |  1.0.0 beta | 4.0.0 |
  
